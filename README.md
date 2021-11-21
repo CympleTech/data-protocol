@@ -18,11 +18,11 @@ There are two types of data, one is normalized data and the other is structured 
 For example:
 ```json
 {
-  "owner": "000000000000000000",    // owner
-  "did": "base58000000000000",      // DID
-  "pid": "base58000000000000",      // Parent-DID
-  "value": "type:xxxxx:0101010101", // Value
-  "time": "00120112:00123423",      // Lifetime
+  "owner": "000000000000000000",
+  "did": "base58000000000000",
+  "pid": "base58000000000000",
+  "value": "type:xxxxx:0101010101",
+  "time": "00120112:00123423",
 }
 ```
 
